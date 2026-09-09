@@ -1,0 +1,1 @@
+"""Synthetic MIDI dataset helpers."""
